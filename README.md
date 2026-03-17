@@ -27,6 +27,9 @@ The application follows a modular structure to ensure data accuracy and user int
     * `OpenCSV`: For robust CSV parsing and data handling.
 * **UI Framework:** Java Swing / AWT
 
+## 📸 Preview
+<img width="1920" height="1073" alt="Screenshot from 2026-03-17 22-40-28" src="https://github.com/user-attachments/assets/700d1e19-cdba-4ef6-9f2e-2b8f7e9252ee" />
+
 ## 📂 Project Structure
 ```text
 ├── pom.xml                     # Maven configuration & dependencies
@@ -36,3 +39,4 @@ The application follows a modular structure to ensure data accuracy and user int
 │   │   └── resources/          # Application assets (dataset1.csv, images)
 │   └── test/java/com/example/  # Unit tests (AppTest.java)
 └── README.md                   # Project documentation
+
